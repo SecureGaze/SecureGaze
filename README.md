@@ -8,3 +8,9 @@ In the video, red and blue arrows represent the gaze directions estimated by the
 This video demonstrates that a simple physical item, such as a piece of white tap, can effectively activate the backdoor behavior, while our method can mitigate it.
 
 
+
+## Real-time Video Demo
+
+![Alt Text](https://github.com/SecureGaze/SecureGaze/blob/main/figures/PhysicalAttackDemo.gif)
+
+
